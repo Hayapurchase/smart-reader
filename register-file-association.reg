@@ -1,0 +1,59 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SmartReader]
+@="Smart Reader Document"
+"FriendlyTypeName"="Smart Reader Document"
+
+[HKEY_CLASSES_ROOT\SmartReader\DefaultIcon]
+@="C:\\Users\\collo\\Documents\\Erico_personal\\Tools\\dist\\win-unpacked\\Smart Reader.exe,0"
+
+[HKEY_CLASSES_ROOT\SmartReader\shell]
+
+[HKEY_CLASSES_ROOT\SmartReader\shell\open]
+
+[HKEY_CLASSES_ROOT\SmartReader\shell\open\command]
+@="\"C:\\Users\\collo\\Documents\\Erico_personal\\Tools\\dist\\win-unpacked\\Smart Reader.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\.md]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.markdown]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mdown]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mkdn]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mdx]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mkd]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mdwn]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mdtxt]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.mdtext]
+@="SmartReader"
+"Content Type"="text/markdown"
+
+[HKEY_CLASSES_ROOT\.text]
+@="SmartReader"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.pdf]
+@="SmartReader"
+"Content Type"="application/pdf"
